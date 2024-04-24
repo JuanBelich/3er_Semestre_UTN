@@ -4,23 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02dd03ed-8a87-45d5-8fdb-788d1332580e" name="Changes" comment="" />
+    <list default="true" id="71d24679-5da1-4ff9-9773-49bf192fb8a6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
-}</component>
-  <component name="ProjectId" id="2eqFAtNyHigJlqO3xaEXwVdyDVE" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2fWOpHN1W2DtoZEatUmQ2xzcewv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,15 +21,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Orden.executor": "Run",
-    "Python.Producto.executor": "Run",
     "Python.test_ordenes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/jbeli/OneDrive/Documentos/UTN/Tercer Semestre/Laboratorio III/Python"
+    "last_opened_file_path": "C:/Users/jbeli/OneDrive/Documentos/UTN/Tercer Semestre/Laboratorio III/Python/Leccion12"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.test_ordenes">
+  <component name="RunManager" selected="Python.Orden">
     <configuration name="Orden" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Laboratorio III" />
+      <module name="Leccion11" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,11 +36,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leccion11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leccion11/Orden.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Orden.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,7 +50,7 @@
       <method v="2" />
     </configuration>
     <configuration name="test_ordenes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Laboratorio III" />
+      <module name="Leccion11" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,11 +58,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leccion11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leccion11/test_ordenes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_ordenes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,8 +73,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_ordenes" />
         <item itemvalue="Python.Orden" />
+        <item itemvalue="Python.test_ordenes" />
       </list>
     </recent_temporary>
   </component>
@@ -96,11 +88,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="02dd03ed-8a87-45d5-8fdb-788d1332580e" name="Changes" comment="" />
-      <created>1712624062318</created>
+      <changelist id="71d24679-5da1-4ff9-9773-49bf192fb8a6" name="Changes" comment="" />
+      <created>1713913548498</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1712624062318</updated>
+      <updated>1713913548498</updated>
     </task>
     <servers />
   </component>
